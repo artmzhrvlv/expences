@@ -18,8 +18,6 @@ doc.elements.each("expences/expence") do |item|
   h.unshift(loss_sum)
   f.unshift(item.attributes)
 end
-
+p " heeloo"
 file.close
-
-p h
-p f
+#komment
