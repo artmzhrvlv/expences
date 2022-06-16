@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<expences>
+  <expence date='16.6.2022' category="expirince" amount="900">Book Ruby</expence>
+  <expence date='1.2.2012' category="exp" amount="1900">Past Ruby</expence>
+  <expence date='12.12.2076' category="xz" amount="50">Future Ruby</expence>
+</expences>
