@@ -21,3 +21,14 @@ end
 p " heeloo"
 file.close
 #komment
+<<<<<<< HEAD
+=======
+zebraz
+zebraz
+zebrazz
+z
+z
+z
+z
+z
+>>>>>>> ficha
