@@ -21,3 +21,7 @@ end
 p " heeloo"
 file.close
 #komment
+zebraz
+zebraz
+zebrazz
+z
